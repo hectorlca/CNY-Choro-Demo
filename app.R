@@ -23,14 +23,14 @@ cny.shp <- tracts(
                          "Madison", 
                          "Cayuga"), cb = TRUE)
 
-school.lead <- read.csv("data/school_lead.csv")
+schools <- read.csv("data/geoschools.csv") # for school dot map.
+
+school.lead <- read.csv("data/school_lead.csv") #for bubble dot map
 
 
 
 
 #### Schools Wrangle ####
-
-schools <- read.csv("data/geoschools.csv")
 
 schools <- select(schools, LEGAL.NAME, 
                   GRADE.ORGANIZATION.DESCRIPTION,
@@ -304,10 +304,9 @@ server <- function(input, output) {
     leaflet() %>%
       setView(lng=-76.13, lat=43.03, zoom=10) %>%
       addProviderTiles("Esri.WorldStreetMap") %>%
-      addPolygons(data = ond, fill = FALSE) %>%
       addCircles(
-        lat = dat$lat, lng = dat$lon,
-        radius = (dat$dotsize*400),
+        lat = school.lead$lat, lng = school.lead$lon,
+        radius = (school.lead$dotsize*400),
         color = "#de2d26",
         stroke = FALSE, fillOpacity = 0.5)
     
