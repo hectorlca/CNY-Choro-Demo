@@ -1,4 +1,4 @@
-#### Load Libraries and Data and Wrangle Shapefile ####
+#### Load Libraries and  Shapefile ####
 library(plyr)
 library(dplyr)
 library(tigris)
@@ -13,7 +13,22 @@ library(shinythemes)
 library(dygraphs)
 library(shinydashboard)
 library(ggmap)
-#### Shapefile Wrangle ####
+
+# Shapefile for CNY
+
+cny.shp <- tracts(
+  state = 36, county = c("Onondaga", 
+                         "Oswego", 
+                         "Cortland", 
+                         "Madison", 
+                         "Cayuga"), cb = TRUE)
+
+school.lead <- read.csv("data/school_lead.csv")
+
+
+
+
+#### Schools Wrangle ####
 
 schools <- read.csv("data/geoschools.csv")
 
@@ -26,12 +41,13 @@ schools <- select(schools, LEGAL.NAME,
 schoolIcon <- makeIcon(
   iconUrl = "http://image.flaticon.com/icons/svg/124/124804.svg",
   iconWidth = 30, iconHeight = 40,
-  iconAnchorX = 22, iconAnchorY = 94
-  #shadowUrl = "http://leafletjs.com/docs/images/leaf-shadow.png",
-  #shadowWidth = 50, shadowHeight = 64,
-  #shadowAnchorX = 4, shadowAnchorY = 62
-)
+  iconAnchorX = 22, iconAnchorY = 94)
 
+
+
+
+
+#### Filter Dropdowns ####
 
 both.attendance <- read.csv ("data/weekly_attendance.csv")
 both.attendance$IEP <- as.character(both.attendance$IEP)
@@ -71,16 +87,15 @@ wgender.dropdown <-
                             c("All",unique(as.character(wattendance.sub$Gender))))))
 
 
-
-
+####
+ 
 dat <- read.csv("data/cny.csv", stringsAsFactors = FALSE)
 dat <- na.omit(dat)
 dat$pop.inc <- format(dat$mean.income,big.mark=",",scientific=FALSE)
-dat$pop.inc <-
-  dat$pop.inc <- as.character( paste0( "<b>", dat$pop.inc, ".</b>") )
+dat$pop.inc <- as.character( paste0( "<b>", dat$pop.inc, ".</b>") )
 dat$poptract <- as.character( paste0( "<h5><b>", dat$tract, ".</h5></b>") )
 dat$popcounty <- as.character(paste0("<b>", dat$county, "</b>"))
-cny.shp <- tracts(state = 36, county = c("Onondaga", "Oswego", "Cortland", "Madison", "Cayuga"), cb = TRUE)
+
 
 
 dat$error.incpercent <- as.numeric(dat$error.incpercent)
@@ -90,9 +105,14 @@ df_merged <- geo_join(cny.shp, dat, "GEOID", "GEOID")
 df_merged <- na.omit(df_merged)
 cny.df <- as.data.frame(df_merged)
 
-####
 
-# Define UI for application that draws a histogram
+
+
+
+
+
+#### UI Design ####
+
 ui <- 
   navbarPage(
     "Central New York",
@@ -144,8 +164,9 @@ ui <-
 
 
 
+#### Create Server and Outputs ####
 
-# Define server logic required to draw a histogram
+
 server <- function(input, output) {
   
   output$incmap <- renderLeaflet({
@@ -231,7 +252,6 @@ server <- function(input, output) {
     cny.map
   })  
     
-    
   output$weekly.attendance <- renderDygraph({ 
     
     wattendance.sub <- both.attendance
@@ -276,6 +296,20 @@ server <- function(input, output) {
       dyEvent("20", "Start of 3rd Quarter", labelLoc = "bottom") %>%
       dyEvent("30", "Start of 4th Quarter", labelLoc = "bottom")
     
+    
+  })
+  
+  output$school.lead <- renderLeaflet({
+    
+    leaflet() %>%
+      setView(lng=-76.13, lat=43.03, zoom=10) %>%
+      addProviderTiles("Esri.WorldStreetMap") %>%
+      addPolygons(data = ond, fill = FALSE) %>%
+      addCircles(
+        lat = dat$lat, lng = dat$lon,
+        radius = (dat$dotsize*400),
+        color = "#de2d26",
+        stroke = FALSE, fillOpacity = 0.5)
     
   })
   
