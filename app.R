@@ -209,7 +209,7 @@ server <- function(input, output) {
                      "Error Margin: ", df_merged$error.snap, "%")
     
     pal <- colorNumeric(
-      palette = "Purples",
+      palette = "YlOrRd",
       domain = as.numeric(df_merged$percent.snap))
     
     leaflet() %>%
@@ -217,8 +217,8 @@ server <- function(input, output) {
       addPolygons(data = df_merged, 
                   fillColor = ~pal(percent.snap), 
                   color = "black", # you need to use hex colors
-                  fillOpacity = 0.7, 
-                  weight = 0.5, 
+                  fillOpacity = 0.6, 
+                  weight = 0.6, 
                   smoothFactor = 0.5,
                   popup = popup) %>%
       addLegend(pal = pal, 
@@ -330,7 +330,7 @@ server <- function(input, output) {
         radius = (lead$dotsize*400),
         color = "#de2d26",
         popup = popup,
-        stroke = FALSE, fillOpacity = 0.5)
+        stroke = FALSE, fillOpacity = (lead$percent.bad/100)/1.8)
     
     
   })
