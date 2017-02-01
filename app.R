@@ -26,7 +26,8 @@ cny.shp <- tracts(
 schools <- read.csv("data/geoschools.csv") # for school dot map.
 
 lead <- read.csv("data/final_lead.csv") #for bubble dot map
-lead$percent.bad <- round((lead$outletsOver15/lead$num.outlets) *100, 1)
+lead$percent.good <- round((lead$outletsOver15/lead$num.outlets) *100, 1)
+lead$percent.bad <- 100-lead$percent.good
 
 
 
@@ -234,25 +235,6 @@ server <- function(input, output) {
     
   })
   
-  #output$schoolmap <- renderLeaflet({
-    
-    #cny.map <- leaflet( data=data.frame(lon=-76.148223,lat=43.024003) ) %>% 
-     # addProviderTiles("Esri.WorldStreetMap", tileOptions(minZoom=10, maxZoom=18))  %>%
-      #setView(lng=-76.13, lat=43.03, zoom=9) %>%
-      #setMaxBounds(lng1=-75, lat1=41, lng2=-77,  lat2=45)
-    
-    
-    
-    #cny.map <- addMarkers( cny.map, lng = schools$lon, lat = schools$lat, 
-                           #clusterOptions = markerClusterOptions(),
-     #                      popup = paste0( schools$LEGAL.NAME, "<br/>",
-                                          # schools$GRADE.ORGANIZATION.DESCRIPTION, "<br/>",
-                                           #"CEO: ", schools$CEO.FIRST.NAME, " ", schools$CEO.LAST.NAME),  
-                           #radius=4, stroke = TRUE, color = "green", weight = 5, opacity = 0.7)#
-     #                      icon = schoolIcon)
-    #cny.map
- # })  
-    
   output$weekly.attendance <- renderDygraph({ 
     
     wattendance.sub <- both.attendance
@@ -302,40 +284,31 @@ server <- function(input, output) {
   
   output$schoolmap <- renderLeaflet({
     
-    # Define circle sizes (and color?)
-    lead$dotsize = NA
-    lead$dotsize <- ifelse(lead$percent.bad < 85, yes = 1.2, no = lead$dotsize)
-    lead$dotsize <- ifelse(lead$percent.bad > 85 & lead$percent.bad < 90, yes = 1.5, no = lead$dotsize)
-    lead$dotsize <- ifelse(lead$percent.bad > 90 & lead$percent.bad < 95, yes = 1.8, no = lead$dotsize)
-    lead$dotsize <- ifelse(lead$percent.bad > 95, yes = 2.4, no = lead$dotsize)
-    
-    lead$pop.school <- as.character( paste0( "<h5><b>", lead$School, ".</h5></b>") )
-    lead$pop.bad <- as.character( paste0( "<b>", lead$percent.bad, ".</b>") )
+    lead$pop.school <- as.character( paste0( "<h5>", lead$School, ".</h5>") )
+    lead$pop.bad <- as.character( paste0( "<b>", lead$percent.bad, "</b>") )
     lead$pop.dist <- as.character(paste0("<b>", lead$District, "</b>"))
     
-    
-    
     lead <- na.omit(lead)
+    lead$percent.bad <- round(lead$percent.bad, 1)
 
-    popup <- paste0( lead$pop.school,  "</br>", 
-                     "<b>Percent outlets > 15 ppb: </b>", lead$pop.bad, "%", "</br>",
-                     "</br>",
-                     "<b>School District: </b>", lead$pop.dist, "</br>")
+    popup <- paste0( lead$pop.school, 
+                     "<b>Percent Outlets > 15 ppb: </b>", lead$pop.bad, "%", "</br>",
+                     "<b>School District: </b>", lead$pop.dist)
     
     leaflet() %>%
       setView(lng=-76.13, lat=43.03, zoom=10) %>%
       addProviderTiles("Esri.WorldStreetMap") %>%
       addCircles(
         lat = lead$lat, lng = lead$lon,
-        radius = (lead$dotsize*400),
+        #radius = (lead$dotsize*1000),
+        radius = (lead$percent.bad*20),
         color = "#de2d26",
         popup = popup,
-        stroke = FALSE, fillOpacity = (lead$percent.bad/100)/1.8)
+        stroke = FALSE, 
+        fillOpacity = 0.7)
     
     
   })
-  
-  
   
   
 }

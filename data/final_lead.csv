@@ -1,107 +1,107 @@
-"","School","Type","District","BEDS","num.outlets","outletsOver15","oos","lon","lat","cleanDist"
-"1","East Hill Elementary School","Elementary/Middle","West Genesee @ Camillus",420101060001,97,96,"Yes",-76.2815709,43.0353022,"West Genesee @ Camillus"
-"2","Stonehedge Elementary School","Elementary/Middle","West Genesee @ Camillus",420101060003,184,183,"Yes",-76.2700146,43.0458273,"West Genesee @ Camillus"
-"3","Onondaga Road Elementary School","Elementary/Middle","West Genesee @ Camillus",420101060005,91,90,"Yes",-76.232148,43.040656,"West Genesee @ Camillus"
-"4","Split Rock Elementary School","Elementary/Middle","West Genesee @ Camillus",420101060006,91,86,"Yes",-76.226134,43.023131,"West Genesee @ Camillus"
-"5","West Genesee Middle School","Elementary/Middle","West Genesee @ Camillus",420101060008,110,92,"Yes",-76.2712862,43.0443695,"West Genesee @ Camillus"
-"6","West Genesee Senior High School","High School","West Genesee @ Camillus",420101060009,175,173,"Yes",-76.2658835,43.0398833,"West Genesee @ Camillus"
-"7","Camillus Middle School","Elementary/Middle","West Genesee @ Camillus",420101060011,191,105,"Yes",-76.3371105,43.0407053,"West Genesee @ Camillus"
-"8","Allen Road Elementary School","Elementary/Middle","North Syracuse CSD",420303060001,123,34,"No",-76.1570509,43.132729,"North Syracuse CSD"
-"9","Karl W Saile Bear Road Elementary School","Elementary/Middle","North Syracuse CSD",420303060002,123,143,"Yes",-76.1318769,43.1437913,"North Syracuse CSD"
-"10","Cicero Elementary School","Elementary/Middle","North Syracuse CSD",420303060003,138,138,"No",-76.1063855,43.1769779,"North Syracuse CSD"
-"11","Lakeshore Road Elementary School","Elementary/Middle","North Syracuse CSD",420303060004,127,100,"Yes",-76.0281303,43.1877708,"North Syracuse CSD"
-"12","Roxboro Road Elementary School","Elementary/Middle","North Syracuse CSD",420303060007,117,117,"No",-76.149664,43.1011373,"North Syracuse CSD"
-"13","Smith Road Elementary School","Elementary/Middle","North Syracuse CSD",420303060008,131,127,"Yes",-76.1052261,43.1365752,"North Syracuse CSD"
-"14","Gillette Road Middle School","Elementary/Middle","North Syracuse CSD",420303060009,111,109,"Yes",-76.0964496,43.1601774,"North Syracuse CSD"
-"15","North Syracuse Junior High School","Elementary/Middle","North Syracuse CSD",420303060010,165,136,"Yes",-76.1437539,43.1226968,"North Syracuse CSD"
-"16","Roxboro Road Middle School","Elementary/Middle","North Syracuse CSD",420303060011,100,96,"Yes",-76.1494854,43.1011143,"North Syracuse CSD"
-"17","Cicero-north Syracuse High School","High School","North Syracuse CSD",420303060014,211,186,"Yes",-76.1040179,43.1743208,"North Syracuse CSD"
-"20","Fremont Elementary School","Elementary/Middle","East Syracuse-Minoa CSD",420401060002,79,79,"No",-76.034633,43.066578,"East Syracuse-Minoa CSD"
-"21","East Syracuse Elementary School","Elementary/Middle","East Syracuse-Minoa CSD",420401060003,92,37,"No",-76.0757202,43.0689623,"East Syracuse-Minoa CSD"
-"22","Woodland Elementary School","Elementary/Middle","East Syracuse-Minoa CSD",420401060004,74,74,"No",-76.0226897,43.0760216,"East Syracuse-Minoa CSD"
-"23","East Syracuse-minoa Central High School","High School","East Syracuse-Minoa CSD",420401060005,228,183,"Yes",-76.0270599,43.0820748,"East Syracuse-Minoa CSD"
-"24","Minoa Elementary School","Elementary/Middle","East Syracuse-Minoa CSD",420401060009,88,82,"Yes",-76.003353,43.080615,"East Syracuse-Minoa CSD"
-"25","Pine Grove Middle School","Elementary/Middle","East Syracuse-Minoa CSD",420401060010,128,122,"Yes",-76.0009919,43.080698,"East Syracuse-Minoa CSD"
-"26","Jamesville Elementary School","Elementary/Middle","Jamesville-DeWitt CSD",420411060002,99,96,"Yes",-76.0742875,42.9916187,"Jamesville-DeWitt CSD"
-"27","Moses Dewitt Elementary School","Elementary/Middle","Jamesville-DeWitt CSD",420411060003,52,49,"Yes",-76.0725717,43.0248249,"Jamesville-DeWitt CSD"
-"28","Tecumseh Elementary School","Elementary/Middle","Jamesville-DeWitt CSD",420411060004,93,92,"Yes",-76.0956746,43.0142028,"Jamesville-DeWitt CSD"
-"29","Jamesville-dewitt Middle School","Elementary/Middle","Jamesville-DeWitt CSD",420411060005,177,175,"Yes",-76.0869762,43.0312167,"Jamesville-DeWitt CSD"
-"30","Jamesville-dewitt High School","High School","Jamesville-DeWitt CSD",420411060006,137,128,"Yes",-76.0489313,43.0166244,"Jamesville-DeWitt CSD"
-"31","Elbridge Elementary School","Elementary/Middle","Jordan Elbridge CSD",420501060001,115,37,"Yes",-76.442614,43.034025,"Jordan Elbridge CSD"
-"32","Jordan-elbridge High School","Elementary/Middle","Jordan Elbridge CSD",420501060003,70,29,"Yes",-76.4723603,43.0470159,"Jordan Elbridge CSD"
-"33","Jordan-elbridge High School","High School","Jordan Elbridge CSD",420501060003,70,29,"Yes",-76.4723603,43.0470159,"Jordan Elbridge CSD"
-"34","Jordan-elbridge Middle School","Elementary/Middle","Jordan Elbridge CSD",420501060004,89,41,"Yes",-76.470895,43.068895,"Jordan Elbridge CSD"
-"35","Westhill High School","High School","Westhill CSD",420701060001,124,113,"Yes",-76.2026493,43.0309794,"Westhill CSD"
-"36","Cherry Road Elementary School","Elementary/Middle","Westhill CSD",420701060002,104,95,"Yes",-76.2111043,43.0438886,"Westhill CSD"
-"37","Walberta Park Primary School","Elementary/Middle","Westhill CSD",420701060003,78,72,"Yes",-76.22386,43.041058,"Westhill CSD"
-"38","Onondaga Hill Middle School","Elementary/Middle","Westhill CSD",420701060004,111,108,"Yes",-76.1814799,43.008057,"Westhill CSD"
-"39","Solvay Elementary School","Elementary/Middle","Solvay Union Free SD",420702030001,78,76,"Yes",-76.2085166,43.0576531,"Solvay Union Free SD"
-"40","Solvay High School","High School","Solvay Union Free SD",420702030004,41,47,"Yes",-76.2155107,43.0579704,"Solvay Union Free SD"
-"41","Solvay Middle School","Elementary/Middle","Solvay Union Free SD",420702030007,53,53,"Yes",-76.2489316,43.0942366,"Solvay Union Free SD"
-"42","Onondaga Nation School","Elementary/Middle","La Fayette CSD",420807040002,50,53,"No",NA,NA,"La Fayette CSD"
-"43","La Fayette Junior-senior High School","Elementary/Middle","La Fayette CSD",420807040003,170,111,"Yes",-76.1144701,42.9116005,"La Fayette CSD"
-"44","La Fayette Junior-senior High School","High School","La Fayette CSD",420807040003,170,111,"Yes",-76.1144701,42.9116005,"La Fayette CSD"
-"45","C Grant Grimshaw School","Elementary/Middle","La Fayette CSD",420807040004,92,92,"Yes",-76.1960477,42.9096835,"La Fayette CSD"
-"46","Catherine M Mcnamara Elementary School","Elementary/Middle","Baldwinsville CSD",420901060003,46,46,"No",-76.3000927,43.1242282,"Baldwinsville CSD"
-"47","L Pearl Palmer Elementary School","Elementary/Middle","Baldwinsville CSD",420901060004,53,53,"No",-76.2775866,43.1487482,"Baldwinsville CSD"
-"48","Van Buren Elementary School","Elementary/Middle","Baldwinsville CSD",420901060005,49,33,"Yes",-76.343078,43.154818,"Baldwinsville CSD"
-"49","Theodore R Durgee Junior High School","Elementary/Middle","Baldwinsville CSD",420901060006,50,48,"Yes",-76.3352837,43.1665165,"Baldwinsville CSD"
-"50","Charles W Baker High School","High School","Baldwinsville CSD",420901060007,69,69,"Yes",-76.334591,43.162248,"Baldwinsville CSD"
-"51","Mae E Reynolds School","Elementary/Middle","Baldwinsville CSD",420901060008,34,31,"Yes",-76.308141,43.132629,"Baldwinsville CSD"
-"52","Donald S Ray School","Elementary/Middle","Baldwinsville CSD",420901060009,24,23,"Yes",-76.3220109,43.1414055,"Baldwinsville CSD"
-"53","Fayetteville Elementary School","Elementary/Middle","Fayetteville-Manlius CSD",421001060001,93,93,"Yes",-76.0020783,43.0211121,"Fayetteville-Manlius CSD"
-"54","Fayetteville-manlius Senior High School","High School","Fayetteville-Manlius CSD",421001060002,302,177,"Yes",-75.961187,43.009405,"Fayetteville-Manlius CSD"
-"55","Eagle Hill Middle School","Elementary/Middle","Fayetteville-Manlius CSD",421001060005,150,84,"Yes",-75.9564676,42.9963336,"Fayetteville-Manlius CSD"
-"56","Wellwood Middle School","Elementary/Middle","Fayetteville-Manlius CSD",421001060006,148,138,"Yes",-76.0019,43.0211776,"Fayetteville-Manlius CSD"
-"57","Mott Road Elementary School","Elementary/Middle","Fayetteville-Manlius CSD",421001060007,108,103,"Yes",-76.026891,43.023385,"Fayetteville-Manlius CSD"
-"58","Enders Road Elementary School","Elementary/Middle","Fayetteville-Manlius CSD",421001060008,101,101,"Yes",-75.9556348,42.9987747,"Fayetteville-Manlius CSD"
-"59","K C Heffernan Elementary School","Elementary/Middle","Marcellus CSD",421101060001,126,83,"Yes",-76.3436052,42.9896693,"Marcellus CSD"
-"60","Marcellus High School","High School","Marcellus CSD",421101060003,56,9,"Yes",-76.3442135,42.9865829,"Marcellus CSD"
-"61","C S Driver Middle School","Elementary/Middle","Marcellus CSD",421101060004,80,97,"Yes",-76.3442135,42.9865829,"Marcellus CSD"
-"62","C S Driver Middle School","High School","Marcellus CSD",421101060004,80,97,"Yes",-76.3442135,42.9865829,"Marcellus CSD"
-"63","Rockwell Elementary School","Elementary/Middle","Onondaga CSD",421201040001,69,65,"Yes",-76.139026,42.976025,"Onondaga CSD"
-"64","Wheeler Elementary School","Elementary/Middle","Onondaga CSD",421201040002,75,70,"Yes",-76.2009279,42.9322509,"Onondaga CSD"
-"65","Onondaga Senior High School","Elementary/Middle","Onondaga CSD",421201040003,66,64,"Yes",-76.2047168,42.9307317,"Onondaga CSD"
-"66","Onondaga Senior High School","High School","Onondaga CSD",421201040003,66,64,"Yes",-76.2047168,42.9307317,"Onondaga CSD"
-"67","Nate Perry Elementary School","Elementary/Middle","Liverpool CSD",421501060001,59,59,"No",-76.1611127,43.1127386,"Liverpool CSD"
-"68","Elmcrest Elementary School","Elementary/Middle","Liverpool CSD",421501060004,66,52,"Yes",-76.238594,43.130838,"Liverpool CSD"
-"69","Liverpool Middle School","Elementary/Middle","Liverpool CSD",421501060005,52,52,"No",-76.2169459,43.1106317,"Liverpool CSD"
-"71","Chestnut Hill Elementary School","Elementary/Middle","Liverpool CSD",421501060009,58,56,"Yes",-76.1822747,43.0949063,"Liverpool CSD"
-"72","Liverpool Elementary School","Elementary/Middle","Liverpool CSD",421501060010,40,40,"No",-76.2199127,43.1098665,"Liverpool CSD"
-"73","Liverpool High School","Elementary/Middle","Liverpool CSD",421501060011,166,118,"Yes",-76.2147946,43.1483535,"Liverpool CSD"
-"74","Liverpool High School","High School","Liverpool CSD",421501060011,166,118,"Yes",-76.2147946,43.1483535,"Liverpool CSD"
-"75","Morgan Road Elementary School","Elementary/Middle","Liverpool CSD",421501060012,22,22,"No",-76.21027,43.1486582,"Liverpool CSD"
-"76","Soule Road Elementary School","Elementary/Middle","Liverpool CSD",421501060013,15,15,"No",-76.2262241,43.1739662,"Liverpool CSD"
-"77","Soule Road Middle School","Elementary/Middle","Liverpool CSD",421501060014,72,72,"No",-76.2243745,43.1738232,"Liverpool CSD"
-"78","Long Branch Elementary School","Elementary/Middle","Liverpool CSD",421501060015,56,55,"Yes",-76.2325108,43.1275952,"Liverpool CSD"
-"79","Donlin Drive Elementary School","Elementary/Middle","Liverpool CSD",421501060016,57,57,"No",-76.173738,43.112392,"Liverpool CSD"
-"80","Willow Field Elementary School","Elementary/Middle","Liverpool CSD",421501060019,50,50,"No",-76.242371,43.183751,"Liverpool CSD"
-"81","Lyncourt School","Elementary/Middle","Lyncourt Union",421504020001,79,76,"Yes",-76.1317433,43.0838696,"Lyncourt Union"
-"82","Skaneateles Senior High School","High School","Skaneateles CSD",421601060002,155,112,"Yes",-76.4210264,42.9514009,"Skaneateles CSD"
-"83","Waterman Elementary School","Elementary/Middle","Skaneateles CSD",421601060003,124,68,"Yes",-76.421959,42.9549393,"Skaneateles CSD"
-"84","State Street Intermediate School","Elementary/Middle","Skaneateles CSD",421601060004,83,76,"Yes",-76.4260841,42.9518517,"Skaneateles CSD"
-"85","Skaneateles Middle School","Elementary/Middle","Skaneateles CSD",421601060005,96,60,"Yes",-76.421959,42.9549393,"Skaneateles CSD"
-"86","Clary Middle School","Elementary/Middle","Syracuse City School District",421800010003,72,69,"Yes",-76.1439028,42.9966484,"Syracuse City School District"
-"87","Bellevue Elementary School","Elementary/Middle","Syracuse City School District",421800010004,67,61,"Yes",-76.1732072,43.0307232,"Syracuse City School District"
-"88","Van Duyn Elementary School","Elementary/Middle","Syracuse City School District",421800010006,79,78,"Yes",-76.15272,43.0071241,"Syracuse City School District"
-"89","Edward Smith K-8 School","Elementary/Middle","Syracuse City School District",421800010008,74,64,"Yes",-76.1224525,43.0302435,"Syracuse City School District"
-"90","Roberts K-8 School","Elementary/Middle","Syracuse City School District",421800010010,82,81,"Yes",-76.1718182,43.0190807,"Syracuse City School District"
-"91","Meachem Elementary School","Elementary/Middle","Syracuse City School District",421800010011,82,79,"Yes",-76.1466895,42.9864579,"Syracuse City School District"
-"92","Lemoyne Elementary School","Elementary/Middle","Syracuse City School District",421800010012,61,60,"Yes",-76.1486893,43.0822561,"Syracuse City School District"
-"93","Salem Hyde Elementary School","Elementary/Middle","Syracuse City School District",421800010013,69,66,"Yes",-76.1268371,43.0697881,"Syracuse City School District"
-"94","Huntington K-8 School","Elementary/Middle","Syracuse City School District",421800010015,83,78,"Yes",-76.1106326,43.0606525,"Syracuse City School District"
-"95","Dr King Elementary School","Elementary/Middle","Syracuse City School District",421800010018,176,172,"Yes",-76.1442423,43.034958,"Syracuse City School District"
-"96","Danforth Middle School","Elementary/Middle","Syracuse City School District",421800010020,75,75,"Yes",-76.1507163,43.0192822,"Syracuse City School District"
-"97","Franklin Elementary School","Elementary/Middle","Syracuse City School District",421800010021,89,88,"Yes",-76.1463099,43.0628256,"Syracuse City School District"
-"99","Hughes Elementary School","Elementary/Middle","Syracuse City School District",421800010025,98,97,"Yes",-76.1338739,43.0232721,"Syracuse City School District"
-"101","Seymour Dual Language Academy","Elementary/Middle","Syracuse City School District",421800010028,57,56,"Yes",-76.1586825,43.0420737,"Syracuse City School District"
-"102","Hurlbut W Smith K-8 School","Elementary/Middle","Syracuse City School District",421800010031,132,129,"Yes",-76.0952589,43.0475827,"Syracuse City School District"
-"103","Delaware Academy","Elementary/Middle","Syracuse City School District",421800010041,78,69,"Yes",-76.1735666,43.0387773,"Syracuse City School District"
-"104","Mckinley-brighton Elementary School","Elementary/Middle","Syracuse City School District",421800010042,124,123,"Yes",-76.1438653,43.0174041,"Syracuse City School District"
-"105","Webster Elementary School","Elementary/Middle","Syracuse City School District",421800010043,51,51,"No",-76.1379587,43.0751854,"Syracuse City School District"
-"107","Lincoln Middle School","Elementary/Middle","Syracuse City School District",421800010048,91,81,"Yes",-76.1252719,43.0652591,"Syracuse City School District"
-"110","Expeditionary Learning Middle School","Elementary/Middle","Syracuse City School District",421800010058,38,34,"Yes",-76.145212,42.996792,"Syracuse City School District"
-"111","Westside Academy At Blodgett","Elementary/Middle","Syracuse City School District",421800010060,74,54,"Yes",-76.1654136,43.0445233,"Syracuse City School District"
-"112","Tully Junior-senior High School","Elementary/Middle","Tully CSD",421902040001,166,130,"Yes",-76.1157528,42.7977763,"Tully CSD"
-"113","Tully Junior-senior High School","High School","Tully CSD",421902040001,166,130,"Yes",-76.1157528,42.7977763,"Tully CSD"
-"114","Tully Elementary School","Elementary/Middle","Tully CSD",421902040002,108,71,"Yes",-76.11253,42.79573,"Tully CSD"
+School,Type,District,BEDS,num.outlets,outletsOver15,oos,lon,lat,cleanDist
+East Hill Elementary School,Elementary/Middle,West Genesee @ Camillus,4.20101E+11,97,96,Yes,-76.2815709,43.0353022,West Genesee @ Camillus
+Stonehedge Elementary School,Elementary/Middle,West Genesee @ Camillus,4.20101E+11,184,183,Yes,-76.2700146,43.0458273,West Genesee @ Camillus
+Onondaga Road Elementary School,Elementary/Middle,West Genesee @ Camillus,4.20101E+11,91,90,Yes,-76.232148,43.040656,West Genesee @ Camillus
+Split Rock Elementary School,Elementary/Middle,West Genesee @ Camillus,4.20101E+11,91,86,Yes,-76.226134,43.023131,West Genesee @ Camillus
+West Genesee Middle School,Elementary/Middle,West Genesee @ Camillus,4.20101E+11,110,92,Yes,-76.2712862,43.0443695,West Genesee @ Camillus
+West Genesee Senior High School,High School,West Genesee @ Camillus,4.20101E+11,175,173,Yes,-76.2658835,43.0398833,West Genesee @ Camillus
+Camillus Middle School,Elementary/Middle,West Genesee @ Camillus,4.20101E+11,191,105,Yes,-76.3371105,43.0407053,West Genesee @ Camillus
+Allen Road Elementary School,Elementary/Middle,North Syracuse CSD,4.20303E+11,123,34,No,-76.1570509,43.132729,North Syracuse CSD
+Karl W Saile Bear Road Elementary School,Elementary/Middle,North Syracuse CSD,4.20303E+11,123,143,Yes,-76.1318769,43.1437913,North Syracuse CSD
+Cicero Elementary School,Elementary/Middle,North Syracuse CSD,4.20303E+11,138,138,No,-76.1063855,43.1769779,North Syracuse CSD
+Lakeshore Road Elementary School,Elementary/Middle,North Syracuse CSD,4.20303E+11,127,100,Yes,-76.0281303,43.1877708,North Syracuse CSD
+Roxboro Road Elementary School,Elementary/Middle,North Syracuse CSD,4.20303E+11,117,117,No,-76.149664,43.1011373,North Syracuse CSD
+Smith Road Elementary School,Elementary/Middle,North Syracuse CSD,4.20303E+11,131,127,Yes,-76.1052261,43.1365752,North Syracuse CSD
+Gillette Road Middle School,Elementary/Middle,North Syracuse CSD,4.20303E+11,111,109,Yes,-76.0964496,43.1601774,North Syracuse CSD
+North Syracuse Junior High School,Elementary/Middle,North Syracuse CSD,4.20303E+11,165,136,Yes,-76.1437539,43.1226968,North Syracuse CSD
+Roxboro Road Middle School,Elementary/Middle,North Syracuse CSD,4.20303E+11,100,96,Yes,-76.1494854,43.1011143,North Syracuse CSD
+Cicero-north Syracuse High School,High School,North Syracuse CSD,4.20303E+11,211,186,Yes,-76.1040179,43.1743208,North Syracuse CSD
+Fremont Elementary School,Elementary/Middle,East Syracuse-Minoa CSD,4.20401E+11,79,79,No,-76.034633,43.066578,East Syracuse-Minoa CSD
+East Syracuse Elementary School,Elementary/Middle,East Syracuse-Minoa CSD,4.20401E+11,92,37,No,-76.0757202,43.0689623,East Syracuse-Minoa CSD
+Woodland Elementary School,Elementary/Middle,East Syracuse-Minoa CSD,4.20401E+11,74,74,No,-76.0226897,43.0760216,East Syracuse-Minoa CSD
+East Syracuse-minoa Central High School,High School,East Syracuse-Minoa CSD,4.20401E+11,228,183,Yes,-76.0270599,43.0820748,East Syracuse-Minoa CSD
+Minoa Elementary School,Elementary/Middle,East Syracuse-Minoa CSD,4.20401E+11,88,82,Yes,-76.003353,43.080615,East Syracuse-Minoa CSD
+Pine Grove Middle School,Elementary/Middle,East Syracuse-Minoa CSD,4.20401E+11,128,122,Yes,-76.0009919,43.080698,East Syracuse-Minoa CSD
+Jamesville Elementary School,Elementary/Middle,Jamesville-DeWitt CSD,4.20411E+11,99,96,Yes,-76.0742875,42.9916187,Jamesville-DeWitt CSD
+Moses Dewitt Elementary School,Elementary/Middle,Jamesville-DeWitt CSD,4.20411E+11,52,49,Yes,-76.0725717,43.0248249,Jamesville-DeWitt CSD
+Tecumseh Elementary School,Elementary/Middle,Jamesville-DeWitt CSD,4.20411E+11,93,92,Yes,-76.0956746,43.0142028,Jamesville-DeWitt CSD
+Jamesville-dewitt Middle School,Elementary/Middle,Jamesville-DeWitt CSD,4.20411E+11,177,175,Yes,-76.0869762,43.0312167,Jamesville-DeWitt CSD
+Jamesville-dewitt High School,High School,Jamesville-DeWitt CSD,4.20411E+11,137,128,Yes,-76.0489313,43.0166244,Jamesville-DeWitt CSD
+Elbridge Elementary School,Elementary/Middle,Jordan Elbridge CSD,4.20501E+11,115,37,Yes,-76.442614,43.034025,Jordan Elbridge CSD
+Jordan-elbridge High School,Elementary/Middle,Jordan Elbridge CSD,4.20501E+11,70,29,Yes,-76.4723603,43.0470159,Jordan Elbridge CSD
+Jordan-elbridge High School,High School,Jordan Elbridge CSD,4.20501E+11,70,29,Yes,-76.4723603,43.0470159,Jordan Elbridge CSD
+Jordan-elbridge Middle School,Elementary/Middle,Jordan Elbridge CSD,4.20501E+11,89,41,Yes,-76.470895,43.068895,Jordan Elbridge CSD
+Westhill High School,High School,Westhill CSD,4.20701E+11,124,113,Yes,-76.2026493,43.0309794,Westhill CSD
+Cherry Road Elementary School,Elementary/Middle,Westhill CSD,4.20701E+11,104,95,Yes,-76.2111043,43.0438886,Westhill CSD
+Walberta Park Primary School,Elementary/Middle,Westhill CSD,4.20701E+11,78,72,Yes,-76.22386,43.041058,Westhill CSD
+Onondaga Hill Middle School,Elementary/Middle,Westhill CSD,4.20701E+11,111,108,Yes,-76.1814799,43.008057,Westhill CSD
+Solvay Elementary School,Elementary/Middle,Solvay Union Free SD,4.20702E+11,78,76,Yes,-76.2085166,43.0576531,Solvay Union Free SD
+Solvay High School,High School,Solvay Union Free SD,4.20702E+11,41,47,Yes,-76.2155107,43.0579704,Solvay Union Free SD
+Solvay Middle School,Elementary/Middle,Solvay Union Free SD,4.20702E+11,53,53,Yes,-76.2489316,43.0942366,Solvay Union Free SD
+Onondaga Nation School,Elementary/Middle,La Fayette CSD,4.20807E+11,50,53,No,NA,NA,La Fayette CSD
+La Fayette Junior-senior High School,Elementary/Middle,La Fayette CSD,4.20807E+11,170,111,Yes,-76.1144701,42.9116005,La Fayette CSD
+La Fayette Junior-senior High School,High School,La Fayette CSD,4.20807E+11,170,111,Yes,-76.1144701,42.9116005,La Fayette CSD
+C Grant Grimshaw School,Elementary/Middle,La Fayette CSD,4.20807E+11,92,92,Yes,-76.1960477,42.9096835,La Fayette CSD
+Catherine M Mcnamara Elementary School,Elementary/Middle,Baldwinsville CSD,4.20901E+11,46,46,No,-76.3000927,43.1242282,Baldwinsville CSD
+L Pearl Palmer Elementary School,Elementary/Middle,Baldwinsville CSD,4.20901E+11,53,53,No,-76.2775866,43.1487482,Baldwinsville CSD
+Van Buren Elementary School,Elementary/Middle,Baldwinsville CSD,4.20901E+11,49,33,Yes,-76.343078,43.154818,Baldwinsville CSD
+Theodore R Durgee Junior High School,Elementary/Middle,Baldwinsville CSD,4.20901E+11,50,48,Yes,-76.3352837,43.1665165,Baldwinsville CSD
+Charles W Baker High School,High School,Baldwinsville CSD,4.20901E+11,69,69,Yes,-76.334591,43.162248,Baldwinsville CSD
+Mae E Reynolds School,Elementary/Middle,Baldwinsville CSD,4.20901E+11,34,31,Yes,-76.308141,43.132629,Baldwinsville CSD
+Donald S Ray School,Elementary/Middle,Baldwinsville CSD,4.20901E+11,24,23,Yes,-76.3220109,43.1414055,Baldwinsville CSD
+Fayetteville Elementary School,Elementary/Middle,Fayetteville-Manlius CSD,4.21001E+11,93,93,Yes,-76.0020783,43.0211121,Fayetteville-Manlius CSD
+Fayetteville-manlius Senior High School,High School,Fayetteville-Manlius CSD,4.21001E+11,302,177,Yes,-75.961187,43.009405,Fayetteville-Manlius CSD
+Eagle Hill Middle School,Elementary/Middle,Fayetteville-Manlius CSD,4.21001E+11,150,84,Yes,-75.9564676,42.9963336,Fayetteville-Manlius CSD
+Wellwood Middle School,Elementary/Middle,Fayetteville-Manlius CSD,4.21001E+11,148,138,Yes,-76.0019,43.0211776,Fayetteville-Manlius CSD
+Mott Road Elementary School,Elementary/Middle,Fayetteville-Manlius CSD,4.21001E+11,108,103,Yes,-76.026891,43.023385,Fayetteville-Manlius CSD
+Enders Road Elementary School,Elementary/Middle,Fayetteville-Manlius CSD,4.21001E+11,101,101,Yes,-75.9556348,42.9987747,Fayetteville-Manlius CSD
+K C Heffernan Elementary School,Elementary/Middle,Marcellus CSD,4.21101E+11,126,83,Yes,-76.3436052,42.9896693,Marcellus CSD
+Marcellus High School,High School,Marcellus CSD,4.21101E+11,56,9,Yes,-76.3442135,42.9865829,Marcellus CSD
+C S Driver Middle School,Elementary/Middle,Marcellus CSD,4.21101E+11,80,97,Yes,-76.3442135,42.9865829,Marcellus CSD
+C S Driver Middle School,High School,Marcellus CSD,4.21101E+11,80,97,Yes,-76.3442135,42.9865829,Marcellus CSD
+Rockwell Elementary School,Elementary/Middle,Onondaga CSD,4.21201E+11,69,65,Yes,-76.139026,42.976025,Onondaga CSD
+Wheeler Elementary School,Elementary/Middle,Onondaga CSD,4.21201E+11,75,70,Yes,-76.2009279,42.9322509,Onondaga CSD
+Onondaga Senior High School,Elementary/Middle,Onondaga CSD,4.21201E+11,66,64,Yes,-76.2047168,42.9307317,Onondaga CSD
+Onondaga Senior High School,High School,Onondaga CSD,4.21201E+11,66,64,Yes,-76.2047168,42.9307317,Onondaga CSD
+Nate Perry Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,59,59,No,-76.1611127,43.1127386,Liverpool CSD
+Elmcrest Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,66,52,Yes,-76.238594,43.130838,Liverpool CSD
+Liverpool Middle School,Elementary/Middle,Liverpool CSD,4.21501E+11,52,52,No,-76.2169459,43.1106317,Liverpool CSD
+Chestnut Hill Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,58,56,Yes,-76.1822747,43.0949063,Liverpool CSD
+Liverpool Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,40,40,No,-76.2199127,43.1098665,Liverpool CSD
+Liverpool High School,Elementary/Middle,Liverpool CSD,4.21501E+11,166,118,Yes,-76.2147946,43.1483535,Liverpool CSD
+Liverpool High School,High School,Liverpool CSD,4.21501E+11,166,118,Yes,-76.2147946,43.1483535,Liverpool CSD
+Morgan Road Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,22,22,No,-76.21027,43.1486582,Liverpool CSD
+Soule Road Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,15,15,No,-76.2262241,43.1739662,Liverpool CSD
+Soule Road Middle School,Elementary/Middle,Liverpool CSD,4.21501E+11,72,72,No,-76.2243745,43.1738232,Liverpool CSD
+Long Branch Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,56,55,Yes,-76.2325108,43.1275952,Liverpool CSD
+Donlin Drive Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,57,57,No,-76.173738,43.112392,Liverpool CSD
+Willow Field Elementary School,Elementary/Middle,Liverpool CSD,4.21501E+11,50,50,No,-76.242371,43.183751,Liverpool CSD
+Lyncourt School,Elementary/Middle,Lyncourt Union,4.21504E+11,79,76,Yes,-76.1317433,43.0838696,Lyncourt Union
+Skaneateles Senior High School,High School,Skaneateles CSD,4.21601E+11,155,112,Yes,-76.4210264,42.9514009,Skaneateles CSD
+Waterman Elementary School,Elementary/Middle,Skaneateles CSD,4.21601E+11,124,68,Yes,-76.421959,42.9549393,Skaneateles CSD
+State Street Intermediate School,Elementary/Middle,Skaneateles CSD,4.21601E+11,83,76,Yes,-76.4260841,42.9518517,Skaneateles CSD
+Skaneateles Middle School,Elementary/Middle,Skaneateles CSD,4.21601E+11,96,60,Yes,-76.421959,42.9549393,Skaneateles CSD
+Clary Middle School,Elementary/Middle,Syracuse City School District,4.218E+11,72,69,Yes,-76.1439028,42.9966484,Syracuse City School District
+Bellevue Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,67,61,Yes,-76.1732072,43.0307232,Syracuse City School District
+Van Duyn Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,79,78,Yes,-76.15272,43.0071241,Syracuse City School District
+Edward Smith K-8 School,Elementary/Middle,Syracuse City School District,4.218E+11,74,64,Yes,-76.1224525,43.0302435,Syracuse City School District
+Roberts K-8 School,Elementary/Middle,Syracuse City School District,4.218E+11,82,81,Yes,-76.1718182,43.0190807,Syracuse City School District
+Meachem Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,82,79,Yes,-76.1466895,42.9864579,Syracuse City School District
+Lemoyne Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,61,60,Yes,-76.1486893,43.0822561,Syracuse City School District
+Salem Hyde Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,69,66,Yes,-76.1268371,43.0697881,Syracuse City School District
+Huntington K-8 School,Elementary/Middle,Syracuse City School District,4.218E+11,83,78,Yes,-76.1106326,43.0606525,Syracuse City School District
+Dr King Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,176,172,Yes,-76.1442423,43.034958,Syracuse City School District
+Danforth Middle School,Elementary/Middle,Syracuse City School District,4.218E+11,75,75,Yes,-76.1507163,43.0192822,Syracuse City School District
+Franklin Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,89,88,Yes,-76.1463099,43.0628256,Syracuse City School District
+Hughes Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,98,97,Yes,-76.1338739,43.0232721,Syracuse City School District
+Seymour Dual Language Academy,Elementary/Middle,Syracuse City School District,4.218E+11,57,56,Yes,-76.1586825,43.0420737,Syracuse City School District
+Hurlbut W Smith K-8 School,Elementary/Middle,Syracuse City School District,4.218E+11,132,129,Yes,-76.0952589,43.0475827,Syracuse City School District
+Delaware Academy,Elementary/Middle,Syracuse City School District,4.218E+11,78,69,Yes,-76.1735666,43.0387773,Syracuse City School District
+Mckinley-brighton Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,124,123,Yes,-76.1438653,43.0174041,Syracuse City School District
+Webster Elementary School,Elementary/Middle,Syracuse City School District,4.218E+11,51,51,No,-76.1379587,43.0751854,Syracuse City School District
+Lincoln Middle School,Elementary/Middle,Syracuse City School District,4.218E+11,91,81,Yes,-76.1252719,43.0652591,Syracuse City School District
+Expeditionary Learning Middle School,Elementary/Middle,Syracuse City School District,4.218E+11,38,34,Yes,-76.145212,42.996792,Syracuse City School District
+Westside Academy At Blodgett,Elementary/Middle,Syracuse City School District,4.218E+11,74,54,Yes,-76.1654136,43.0445233,Syracuse City School District
+Tully Junior-senior High School,Elementary/Middle,Tully CSD,4.21902E+11,166,130,Yes,-76.1157528,42.7977763,Tully CSD
+Tully Junior-senior High School,High School,Tully CSD,4.21902E+11,166,130,Yes,-76.1157528,42.7977763,Tully CSD
+Tully Elementary School,Elementary/Middle,Tully CSD,4.21902E+11,108,71,Yes,-76.11253,42.79573,Tully CSD

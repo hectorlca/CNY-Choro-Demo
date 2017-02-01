@@ -5,11 +5,20 @@ simpleCap <- function(x) {
 
 #Get the wrangled and geocoded data 
 
-dat <- read.csv("data/lead.csv")
+dat <- read.csv("data/lead2.csv")
+dat$address <- paste(dat$School.Street, dat$School.City, dat$School.State, sep = ", ")
+
+dat$School.Street <- NULL
+dat$School.State <- NULL
+dat$School.City <- NULL
+
+cords <- geocode(dat$address)
+
+dat <- cbind(dat, cords)
 
 
 
-#Get BEDS Data and prep for merge
+#### Get BEDS Data and prep for merge ####
 
 beds <- read.csv("data/beds.csv") %>%
   select(ENTITY_CD, ENTITY_NAME, County, District.Name, ACCOUNTABILITYMEASURE)
@@ -42,7 +51,7 @@ beds.dat <- unique(beds.dat) # Done with unique table
 beds.dat$BEDS <- as.numeric(as.character(beds.dat$BEDS))
 
 
-# do the merge
+#### Merge ####
 merged <- left_join (dat, beds.dat, "BEDS")
 
 merged <- unique(merged)
