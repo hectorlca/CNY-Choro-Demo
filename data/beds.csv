@@ -1,0 +1,1100 @@
+ENTITY_CD,ENTITY_NAME,County,District Code,District Name,ACC_YEAR,ACCOUNTABILITYMEASURE,ACC_NAME
+420101060000,WEST GENESEE CENTRAL SCHOOL DISTRICT,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Migrant
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Migrant
+420101060003,STONEHEDGE ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Migrant
+420101060005,ONONDAGA ROAD ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420101060005,ONONDAGA ROAD ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Migrant
+420101060006,SPLIT ROCK ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Migrant
+420101060008,WEST GENESEE MIDDLE SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Migrant
+420101060011,CAMILLUS MIDDLE SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060000,NORTH SYRACUSE CENTRAL SCHOOL DISTRICT,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Black or African American
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060002,KARL W SAILE BEAR ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060004,LAKESHORE ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420303060004,LAKESHORE ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060009,GILLETTE ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420303060009,GILLETTE ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060010,NORTH SYRACUSE JUNIOR HIGH SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420303060010,NORTH SYRACUSE JUNIOR HIGH SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level ELA,Migrant
+420401060000,EAST SYRACUSE-MINOA CENTRAL SCHOOL DISTRICT,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Migrant
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Migrant
+420401060003,EAST SYRACUSE ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Migrant
+420401060004,WOODLAND ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Migrant
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Black or African American
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Migrant
+420401060010,PINE GROVE MIDDLE SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level ELA,Migrant
+420411060000,JAMESVILLE-DEWITT CENTRAL SCHOOL DISTRICT,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Migrant
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Migrant
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Migrant
+420411060004,TECUMSEH ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420411060004,TECUMSEH ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Migrant
+420411060005,JAMESVILLE-DEWITT MIDDLE SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level ELA,Migrant
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Migrant
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,General Education
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Black or African American
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Female
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Not Economically Disadvantaged
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Multiracial
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Not White
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level ELA,Migrant
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,Multiracial
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,Multiracial
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,Migrant
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level ELA,Multiracial
+420701060000,WESTHILL CENTRAL SCHOOL DISTRICT,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,Migrant
+420701060002,CHERRY ROAD ELEMENTARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420701060002,CHERRY ROAD ELEMENTARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,Migrant
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,Black or African American
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,Migrant
+420701060004,ONONDAGA HILL MIDDLE SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level ELA,Migrant
+420702030000,SOLVAY UNION FREE SCHOOL DISTRICT,42,0702,Solvay UFSD,2015,Elementary/Middle-Level ELA,Migrant
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level ELA,Migrant
+420702030007,SOLVAY MIDDLE SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level ELA,Migrant
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Migrant
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Black or African American
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,White
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Migrant
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Multiracial
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Not American Indian or Alaska Native
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Black or African American
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Migrant
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Black or African American
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060000,BALDWINSVILLE CENTRAL SCHOOL DISTRICT,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060002,HARRY E ELDEN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420901060002,HARRY E ELDEN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060005,VAN BUREN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060006,THEODORE R DURGEE JUNIOR HIGH SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level ELA,Migrant
+421001060000,FAYETTEVILLE-MANLIUS CENTRAL SCHOOL DISTRICT,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,Migrant
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,Migrant
+421001060005,EAGLE HILL MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421001060005,EAGLE HILL MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,Migrant
+421001060006,WELLWOOD MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,Migrant
+421001060007,MOTT ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421001060007,MOTT ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,Migrant
+421001060008,ENDERS ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421001060008,ENDERS ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level ELA,Migrant
+421101060001,K C HEFFERNAN ELEMENTARY SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421101060001,K C HEFFERNAN ELEMENTARY SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level ELA,Black or African American
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level ELA,Migrant
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level ELA,Migrant
+421201040002,WHEELER ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060000,LIVERPOOL CENTRAL SCHOOL DISTRICT,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060001,NATE PERRY ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060002,CHESTNUT HILL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060004,ELMCREST ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421501060004,ELMCREST ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060005,LIVERPOOL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060009,CHESTNUT HILL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,General Education
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Black or African American
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Male
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Economically Disadvantaged
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Multiracial
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Not White
+421501060012,MORGAN ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421501060012,MORGAN ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060014,SOULE ROAD MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421501060014,SOULE ROAD MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060015,LONG BRANCH ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421501060015,LONG BRANCH ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060016,DONLIN DRIVE ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421501060016,DONLIN DRIVE ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421501060019,WILLOW FIELD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421501060019,WILLOW FIELD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level ELA,Migrant
+421504020000,LYNCOURT UNION FREE SCHOOL DISTRICT,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421504020000,LYNCOURT UNION FREE SCHOOL DISTRICT,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level ELA,Migrant
+421504020001,LYNCOURT SCHOOL,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421504020001,LYNCOURT SCHOOL,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level ELA,Migrant
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Migrant
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Black or African American
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Migrant
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Multiracial
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Migrant
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level ELA,Migrant
+421800010003,CLARY MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010004,BELLEVUE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010006,VAN DUYN ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800010006,VAN DUYN ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010008,EDWARD SMITH K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010010,ROBERTS K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010011,MEACHEM ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010012,LEMOYNE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010013,SALEM HYDE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800010013,SALEM HYDE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010015,HUNTINGTON K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010020,DANFORTH MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010025,HUGHES ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421800010025,HUGHES ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010028,SEYMOUR DUAL LANGUAGE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010031,HURLBUT W SMITH K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Students with Disabilities
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,White
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Female
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Not Economically Disadvantaged
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Multiracial
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Not Black or African American
+421800010041,DELAWARE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010058,EXPEDITIONARY LEARNING MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800010058,EXPEDITIONARY LEARNING MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010060,WESTSIDE ACADEMY AT BLODGETT,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,All Students
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Students with Disabilities
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Black or African American
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,White
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Economically Disadvantaged
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Multiracial
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,All Students
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Students with Disabilities
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Black or African American
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Hispanic or Latino
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,White
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Economically Disadvantaged
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Multiracial
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Limited English Proficient
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Multiracial
+421800860854,SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level ELA,Migrant
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,Elementary/Middle-Level ELA,Migrant
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level ELA,Migrant
+421902040002,TULLY ELEMENTARY SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level ELA,Migrant
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,Students with Disabilities
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,American Indian or Alaska Native
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,Asian or Native Hawaiian/Other Pacific Islander
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,Black or African American
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,Hispanic or Latino
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,White
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,Limited English Proficient
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,Economically Disadvantaged
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level ELA,Multiracial
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,Students with Disabilities
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,Black or African American
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,Hispanic or Latino
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,White
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,Limited English Proficient
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,Economically Disadvantaged
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2014,Elementary/Middle-Level MATH,Multiracial
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,Students with Disabilities
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,Black or African American
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,Hispanic or Latino
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,White
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,Limited English Proficient
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,Economically Disadvantaged
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2014,Elementary/Middle-Level MATH,Multiracial
+420101060000,WEST GENESEE CENTRAL SCHOOL DISTRICT,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Migrant
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Migrant
+420101060003,STONEHEDGE ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Migrant
+420101060005,ONONDAGA ROAD ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420101060005,ONONDAGA ROAD ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Migrant
+420101060006,SPLIT ROCK ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Migrant
+420101060008,WEST GENESEE MIDDLE SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Migrant
+420101060011,CAMILLUS MIDDLE SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060000,NORTH SYRACUSE CENTRAL SCHOOL DISTRICT,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Black or African American
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060002,KARL W SAILE BEAR ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060004,LAKESHORE ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420303060004,LAKESHORE ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060009,GILLETTE ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420303060009,GILLETTE ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060010,NORTH SYRACUSE JUNIOR HIGH SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420303060010,NORTH SYRACUSE JUNIOR HIGH SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level MATH,Migrant
+420401060000,EAST SYRACUSE-MINOA CENTRAL SCHOOL DISTRICT,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Migrant
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Migrant
+420401060003,EAST SYRACUSE ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Migrant
+420401060004,WOODLAND ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Migrant
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Black or African American
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Migrant
+420401060010,PINE GROVE MIDDLE SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level MATH,Migrant
+420411060000,JAMESVILLE-DEWITT CENTRAL SCHOOL DISTRICT,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Migrant
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Migrant
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Migrant
+420411060004,TECUMSEH ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420411060004,TECUMSEH ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Migrant
+420411060005,JAMESVILLE-DEWITT MIDDLE SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level MATH,Migrant
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Migrant
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,General Education
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Black or African American
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Female
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Not Economically Disadvantaged
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Multiracial
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Not White
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level MATH,Migrant
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,Multiracial
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,Multiracial
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,Migrant
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level MATH,Multiracial
+420701060000,WESTHILL CENTRAL SCHOOL DISTRICT,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,Migrant
+420701060002,CHERRY ROAD ELEMENTARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420701060002,CHERRY ROAD ELEMENTARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,Migrant
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,Black or African American
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420701060003,WALBERTA PARK PRIMARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,Migrant
+420701060004,ONONDAGA HILL MIDDLE SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level MATH,Migrant
+420702030000,SOLVAY UNION FREE SCHOOL DISTRICT,42,0702,Solvay UFSD,2015,Elementary/Middle-Level MATH,Migrant
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level MATH,Migrant
+420702030007,SOLVAY MIDDLE SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level MATH,Migrant
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Migrant
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Black or African American
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,White
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Migrant
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Multiracial
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Not American Indian or Alaska Native
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Black or African American
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Migrant
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Black or African American
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060000,BALDWINSVILLE CENTRAL SCHOOL DISTRICT,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060002,HARRY E ELDEN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420901060002,HARRY E ELDEN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060005,VAN BUREN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060006,THEODORE R DURGEE JUNIOR HIGH SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level MATH,Migrant
+421001060000,FAYETTEVILLE-MANLIUS CENTRAL SCHOOL DISTRICT,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,Migrant
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,Migrant
+421001060005,EAGLE HILL MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421001060005,EAGLE HILL MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,Migrant
+421001060006,WELLWOOD MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,Migrant
+421001060007,MOTT ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421001060007,MOTT ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,Migrant
+421001060008,ENDERS ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421001060008,ENDERS ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level MATH,Migrant
+421101060001,K C HEFFERNAN ELEMENTARY SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421101060001,K C HEFFERNAN ELEMENTARY SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level MATH,Black or African American
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level MATH,Migrant
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421201040001,ROCKWELL ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level MATH,Migrant
+421201040002,WHEELER ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060000,LIVERPOOL CENTRAL SCHOOL DISTRICT,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060001,NATE PERRY ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060002,CHESTNUT HILL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060004,ELMCREST ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421501060004,ELMCREST ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060005,LIVERPOOL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060009,CHESTNUT HILL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,General Education
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Black or African American
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Male
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Economically Disadvantaged
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Multiracial
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Not White
+421501060012,MORGAN ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421501060012,MORGAN ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060014,SOULE ROAD MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421501060014,SOULE ROAD MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060015,LONG BRANCH ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421501060015,LONG BRANCH ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060016,DONLIN DRIVE ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421501060016,DONLIN DRIVE ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421501060019,WILLOW FIELD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421501060019,WILLOW FIELD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level MATH,Migrant
+421504020000,LYNCOURT UNION FREE SCHOOL DISTRICT,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421504020000,LYNCOURT UNION FREE SCHOOL DISTRICT,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level MATH,Migrant
+421504020001,LYNCOURT SCHOOL,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421504020001,LYNCOURT SCHOOL,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level MATH,Migrant
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Migrant
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Black or African American
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Migrant
+421601060003,WATERMAN ELEMENTARY SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Multiracial
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Migrant
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level MATH,Migrant
+421800010003,CLARY MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010004,BELLEVUE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010006,VAN DUYN ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800010006,VAN DUYN ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010008,EDWARD SMITH K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010010,ROBERTS K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010011,MEACHEM ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010012,LEMOYNE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010013,SALEM HYDE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800010013,SALEM HYDE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010015,HUNTINGTON K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010020,DANFORTH MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010025,HUGHES ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421800010025,HUGHES ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010028,SEYMOUR DUAL LANGUAGE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010031,HURLBUT W SMITH K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Students with Disabilities
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,White
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Female
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Not Economically Disadvantaged
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Multiracial
+421800010040,HENNINGER HIGH SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Not Black or African American
+421800010041,DELAWARE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010058,EXPEDITIONARY LEARNING MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800010058,EXPEDITIONARY LEARNING MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010060,WESTSIDE ACADEMY AT BLODGETT,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,All Students
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Students with Disabilities
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Black or African American
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,White
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Economically Disadvantaged
+421800010070,SYRACUSE LATIN SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Multiracial
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,All Students
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Students with Disabilities
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,American Indian or Alaska Native
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Asian or Native Hawaiian/Other Pacific Islander
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Black or African American
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Hispanic or Latino
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,White
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Economically Disadvantaged
+421800010072,DELAWARE PRIMARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Multiracial
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Limited English Proficient
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Multiracial
+421800860854,SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level MATH,Migrant
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,Elementary/Middle-Level MATH,Migrant
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level MATH,Migrant
+421902040002,TULLY ELEMENTARY SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level MATH,Migrant
+420101060000,WEST GENESEE CENTRAL SCHOOL DISTRICT,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Migrant
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Migrant
+420101060001,EAST HILL ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Multiracial
+420101060003,STONEHEDGE ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Migrant
+420101060005,ONONDAGA ROAD ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420101060005,ONONDAGA ROAD ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420101060005,ONONDAGA ROAD ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Migrant
+420101060006,SPLIT ROCK ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420101060006,SPLIT ROCK ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420101060006,SPLIT ROCK ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Black or African American
+420101060006,SPLIT ROCK ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420101060006,SPLIT ROCK ELEMENTARY SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Migrant
+420101060008,WEST GENESEE MIDDLE SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Migrant
+420101060011,CAMILLUS MIDDLE SCHOOL,42,0101,West Genessee CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060000,NORTH SYRACUSE CENTRAL SCHOOL DISTRICT,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Black or African American
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420303060001,ALLEN ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060002,KARL W SAILE BEAR ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420303060002,KARL W SAILE BEAR ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420303060003,CICERO ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060004,LAKESHORE ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420303060004,LAKESHORE ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420303060004,LAKESHORE ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420303060007,ROXBORO ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420303060008,SMITH ROAD ELEMENTARY SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060010,NORTH SYRACUSE JUNIOR HIGH SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420303060010,NORTH SYRACUSE JUNIOR HIGH SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,General Education
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Black or African American
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Migrant
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Multiracial
+420303060011,ROXBORO ROAD MIDDLE SCHOOL,42,0303,North Syracuse CSD,2015,Elementary/Middle-Level Science,Not White
+420401060000,EAST SYRACUSE-MINOA CENTRAL SCHOOL DISTRICT,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Migrant
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420401060002,FREMONT ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Migrant
+420401060003,EAST SYRACUSE ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420401060003,EAST SYRACUSE ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Migrant
+420401060004,WOODLAND ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Migrant
+420401060004,WOODLAND ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Multiracial
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Black or African American
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Migrant
+420401060009,MINOA ELEMENTARY SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Multiracial
+420401060010,PINE GROVE MIDDLE SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420401060010,PINE GROVE MIDDLE SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,Elementary/Middle-Level Science,Migrant
+420411060000,JAMESVILLE-DEWITT CENTRAL SCHOOL DISTRICT,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Migrant
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420411060002,JAMESVILLE ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Migrant
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Migrant
+420411060003,MOSES DEWITT ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Multiracial
+420411060004,TECUMSEH ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420411060004,TECUMSEH ELEMENTARY SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Migrant
+420411060005,JAMESVILLE-DEWITT MIDDLE SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,Elementary/Middle-Level Science,Migrant
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Migrant
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420501060001,ELBRIDGE ELEMENTARY SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,General Education
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Black or African American
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Female
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Not Economically Disadvantaged
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Multiracial
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Not White
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Migrant
+420501060004,JORDAN-ELBRIDGE MIDDLE SCHOOL,42,0501,Jordan-Elbridge CSD,2015,Elementary/Middle-Level Science,Multiracial
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Migrant
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Multiracial
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Migrant
+420601040001,FABIUS-POMPEY ELEMENTARY SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Multiracial
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Migrant
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,Elementary/Middle-Level Science,Multiracial
+420701060000,WESTHILL CENTRAL SCHOOL DISTRICT,42,0701,Westhill CSD,2015,Elementary/Middle-Level Science,Migrant
+420701060002,CHERRY ROAD ELEMENTARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420701060002,CHERRY ROAD ELEMENTARY SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level Science,Migrant
+420701060004,ONONDAGA HILL MIDDLE SCHOOL,42,0701,Westhill CSD,2015,Elementary/Middle-Level Science,Migrant
+420702030000,SOLVAY UNION FREE SCHOOL DISTRICT,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420702030000,SOLVAY UNION FREE SCHOOL DISTRICT,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Migrant
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,General Education
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Black or African American
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Female
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Economically Disadvantaged
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Migrant
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Multiracial
+420702030001,SOLVAY ELEMENTARY SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Not White
+420702030007,SOLVAY MIDDLE SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420702030007,SOLVAY MIDDLE SCHOOL,42,0702,Solvay UFSD,2015,Elementary/Middle-Level Science,Migrant
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Migrant
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Black or African American
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,White
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Migrant
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Multiracial
+420807040002,ONONDAGA NATION SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Not American Indian or Alaska Native
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Black or African American
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Migrant
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Multiracial
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Black or African American
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420807040004,C GRANT GRIMSHAW SCHOOL,42,0807,Lafayette CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060000,BALDWINSVILLE CENTRAL SCHOOL DISTRICT,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060002,HARRY E ELDEN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420901060002,HARRY E ELDEN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420901060002,HARRY E ELDEN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420901060003,CATHERINE M MCNAMARA ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420901060004,L PEARL PALMER ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060005,VAN BUREN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420901060005,VAN BUREN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Black or African American
+420901060005,VAN BUREN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420901060005,VAN BUREN ELEMENTARY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060006,THEODORE R DURGEE JUNIOR HIGH SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420901060008,MAE E REYNOLDS SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,General Education
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Black or African American
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Female
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Not Economically Disadvantaged
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Migrant
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Multiracial
+420901060009,DONALD S RAY SCHOOL,42,0901,Baldwinsville CSD,2015,Elementary/Middle-Level Science,Not White
+421001060000,FAYETTEVILLE-MANLIUS CENTRAL SCHOOL DISTRICT,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421001060000,FAYETTEVILLE-MANLIUS CENTRAL SCHOOL DISTRICT,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Migrant
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421001060001,FAYETTEVILLE ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Migrant
+421001060005,EAGLE HILL MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421001060005,EAGLE HILL MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421001060005,EAGLE HILL MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Migrant
+421001060006,WELLWOOD MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421001060006,WELLWOOD MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421001060006,WELLWOOD MIDDLE SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Migrant
+421001060007,MOTT ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421001060007,MOTT ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+421001060007,MOTT ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Migrant
+421001060008,ENDERS ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421001060008,ENDERS ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421001060008,ENDERS ROAD ELEMENTARY SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,Elementary/Middle-Level Science,Migrant
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,Elementary/Middle-Level Science,Migrant
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,Elementary/Middle-Level Science,Migrant
+421201040002,WHEELER ELEMENTARY SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level Science,Migrant
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,Elementary/Middle-Level Science,Multiracial
+421501060000,LIVERPOOL CENTRAL SCHOOL DISTRICT,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060001,NATE PERRY ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060001,NATE PERRY ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060002,CHESTNUT HILL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060002,CHESTNUT HILL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060004,ELMCREST ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060004,ELMCREST ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060004,ELMCREST ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060005,LIVERPOOL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060005,LIVERPOOL MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060009,CHESTNUT HILL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060009,CHESTNUT HILL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060010,LIVERPOOL ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,General Education
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Black or African American
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Male
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Economically Disadvantaged
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Multiracial
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Not White
+421501060012,MORGAN ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060012,MORGAN ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060013,SOULE ROAD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060014,SOULE ROAD MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060014,SOULE ROAD MIDDLE SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060015,LONG BRANCH ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060015,LONG BRANCH ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060015,LONG BRANCH ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060016,DONLIN DRIVE ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421501060016,DONLIN DRIVE ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421501060019,WILLOW FIELD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421501060019,WILLOW FIELD ELEMENTARY SCHOOL,42,1501,Liverpool CSD,2015,Elementary/Middle-Level Science,Migrant
+421504020000,LYNCOURT UNION FREE SCHOOL DISTRICT,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421504020000,LYNCOURT UNION FREE SCHOOL DISTRICT,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level Science,Migrant
+421504020001,LYNCOURT SCHOOL,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421504020001,LYNCOURT SCHOOL,42,1504,Lyncourt UFSD,2015,Elementary/Middle-Level Science,Migrant
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Black or African American
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Migrant
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Black or African American
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421601060004,STATE STREET INTERMEDIATE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Migrant
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Black or African American
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421601060005,SKANEATELES MIDDLE SCHOOL,42,1601,Skaneateles CSD,2015,Elementary/Middle-Level Science,Migrant
+421800010003,CLARY MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800010003,CLARY MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010004,BELLEVUE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421800010004,BELLEVUE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800010004,BELLEVUE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010004,BELLEVUE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Multiracial
+421800010006,VAN DUYN ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800010006,VAN DUYN ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010008,EDWARD SMITH K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010010,ROBERTS K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010011,MEACHEM ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421800010011,MEACHEM ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800010011,MEACHEM ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010012,LEMOYNE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421800010012,LEMOYNE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010013,SALEM HYDE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800010013,SALEM HYDE ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010015,HUNTINGTON K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010018,DR KING ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421800010020,DANFORTH MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010021,FRANKLIN ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010025,HUGHES ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421800010025,HUGHES ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010028,SEYMOUR DUAL LANGUAGE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421800010028,SEYMOUR DUAL LANGUAGE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010031,HURLBUT W SMITH K-8 SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010041,DELAWARE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421800010041,DELAWARE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421800010041,DELAWARE ACADEMY,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800010042,MCKINLEY-BRIGHTON ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010043,WEBSTER ELEMENTARY SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010048,LINCOLN MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010058,EXPEDITIONARY LEARNING MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800010058,EXPEDITIONARY LEARNING MIDDLE SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800010060,WESTSIDE ACADEMY AT BLODGETT,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,American Indian or Alaska Native
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Limited English Proficient
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421800860845,SOUTHSIDE ACADEMY CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Multiracial
+421800860854,SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL,42,1800,Syracuse City SD,2015,Elementary/Middle-Level Science,Migrant
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,Elementary/Middle-Level Science,Migrant
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level Science,Asian or Native Hawaiian/Other Pacific Islander
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level Science,Migrant
+421902040002,TULLY ELEMENTARY SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level Science,Black or African American
+421902040002,TULLY ELEMENTARY SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level Science,Hispanic or Latino
+421902040002,TULLY ELEMENTARY SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level Science,Migrant
+421902040002,TULLY ELEMENTARY SCHOOL,42,1902,Tully CSD,2015,Elementary/Middle-Level Science,Multiracial
+420101060000,WEST GENESEE CENTRAL SCHOOL DISTRICT,42,0101,West Genessee CSD,2015,High School ELA,Migrant
+420101060009,WEST GENESEE SENIOR HIGH SCHOOL,42,0101,West Genessee CSD,2015,High School ELA,Migrant
+420303060000,NORTH SYRACUSE CENTRAL SCHOOL DISTRICT,42,0303,North Syracuse CSD,2015,High School ELA,Migrant
+420303060014,CICERO-NORTH SYRACUSE HIGH SCHOOL,42,0303,North Syracuse CSD,2015,High School ELA,Migrant
+420401060000,EAST SYRACUSE-MINOA CENTRAL SCHOOL DISTRICT,42,0401,East Syracuse-Minoa CSD,2015,High School ELA,Migrant
+420401060005,EAST SYRACUSE-MINOA CENTRAL HIGH SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,High School ELA,Migrant
+420411060000,JAMESVILLE-DEWITT CENTRAL SCHOOL DISTRICT,42,0411,Jamesville-Dewitt CSD,2015,High School ELA,Migrant
+420411060006,JAMESVILLE-DEWITT HIGH SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,High School ELA,Migrant
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Hispanic or Latino
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Limited English Proficient
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Migrant
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Multiracial
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Hispanic or Latino
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Limited English Proficient
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School ELA,Multiracial
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,American Indian or Alaska Native
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,Black or African American
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,Hispanic or Latino
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,Limited English Proficient
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,Migrant
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,Multiracial
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School ELA,Not White
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,American Indian or Alaska Native
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,Black or African American
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,Hispanic or Latino
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,Limited English Proficient
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,Migrant
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,Multiracial
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School ELA,Not White
+420701060000,WESTHILL CENTRAL SCHOOL DISTRICT,42,0701,Westhill CSD,2015,High School ELA,Limited English Proficient
+420701060000,WESTHILL CENTRAL SCHOOL DISTRICT,42,0701,Westhill CSD,2015,High School ELA,Migrant
+420701060001,WESTHILL HIGH SCHOOL,42,0701,Westhill CSD,2015,High School ELA,Limited English Proficient
+420701060001,WESTHILL HIGH SCHOOL,42,0701,Westhill CSD,2015,High School ELA,Migrant
+420702030000,SOLVAY UNION FREE SCHOOL DISTRICT,42,0702,Solvay UFSD,2015,High School ELA,Migrant
+420702030004,SOLVAY HIGH SCHOOL,42,0702,Solvay UFSD,2015,High School ELA,Migrant
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School ELA,Black or African American
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School ELA,Hispanic or Latino
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School ELA,Limited English Proficient
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School ELA,Migrant
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School ELA,Multiracial
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School ELA,Black or African American
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School ELA,Hispanic or Latino
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School ELA,Limited English Proficient
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School ELA,Migrant
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School ELA,Multiracial
+420901060000,BALDWINSVILLE CENTRAL SCHOOL DISTRICT,42,0901,Baldwinsville CSD,2015,High School ELA,Migrant
+420901060007,CHARLES W BAKER HIGH SCHOOL,42,0901,Baldwinsville CSD,2015,High School ELA,Migrant
+421001060000,FAYETTEVILLE-MANLIUS CENTRAL SCHOOL DISTRICT,42,1001,Fayetteville-Manlius CSD,2015,High School ELA,Migrant
+421001060002,FAYETTEVILLE-MANLIUS SENIOR HIGH SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,High School ELA,Migrant
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School ELA,American Indian or Alaska Native
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School ELA,Black or African American
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School ELA,Limited English Proficient
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School ELA,Migrant
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School ELA,Multiracial
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,American Indian or Alaska Native
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Black or African American
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Limited English Proficient
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Migrant
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Multiracial
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,All Students
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,General Education
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Students with Disabilities
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,American Indian or Alaska Native
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Black or African American
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Hispanic or Latino
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,White
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Female
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Male
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,English Proficient
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Limited English Proficient
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Economically Disadvantaged
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not Economically Disadvantaged
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Migrant
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not Migrant
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Multiracial
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not American Indian or Alaska Native
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not Asian or Pacific Islander
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not Black or African American
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not Hispanic or Latino
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not White
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School ELA,Not Multiracial
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School ELA,Hispanic or Latino
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School ELA,Limited English Proficient
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School ELA,Migrant
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School ELA,Hispanic or Latino
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School ELA,Limited English Proficient
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School ELA,Migrant
+421501060000,LIVERPOOL CENTRAL SCHOOL DISTRICT,42,1501,Liverpool CSD,2015,High School ELA,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,High School ELA,Migrant
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School ELA,American Indian or Alaska Native
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School ELA,Black or African American
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School ELA,Limited English Proficient
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School ELA,Migrant
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School ELA,Multiracial
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School ELA,American Indian or Alaska Native
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School ELA,Black or African American
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School ELA,Limited English Proficient
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School ELA,Migrant
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School ELA,Multiracial
+421800010033,CORCORAN HIGH SCHOOL,42,1800,Syracuse City SD,2015,High School ELA,Migrant
+421800010047,INSTITUTE OF TECHNOLOGY AT SYRACUSE CENTRAL,42,1800,Syracuse City SD,2015,High School ELA,Migrant
+421800010049,FOWLER HIGH SCHOOL,42,1800,Syracuse City SD,2015,High School ELA,Migrant
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,All Students
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,Students with Disabilities
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,American Indian or Alaska Native
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,Asian or Native Hawaiian/Other Pacific Islander
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,Black or African American
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,Hispanic or Latino
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,White
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,Limited English Proficient
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,Economically Disadvantaged
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School ELA,Multiracial
+421800860854,SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL,42,1800,Syracuse City SD,2015,High School ELA,American Indian or Alaska Native
+421800860854,SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL,42,1800,Syracuse City SD,2015,High School ELA,Migrant
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School ELA,American Indian or Alaska Native
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School ELA,Limited English Proficient
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School ELA,Migrant
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School ELA,Multiracial
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School ELA,American Indian or Alaska Native
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School ELA,Limited English Proficient
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School ELA,Migrant
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School ELA,Multiracial
+420101060000,WEST GENESEE CENTRAL SCHOOL DISTRICT,42,0101,West Genessee CSD,2015,High School MATH,Migrant
+420101060009,WEST GENESEE SENIOR HIGH SCHOOL,42,0101,West Genessee CSD,2015,High School MATH,Migrant
+420303060000,NORTH SYRACUSE CENTRAL SCHOOL DISTRICT,42,0303,North Syracuse CSD,2015,High School MATH,Migrant
+420303060014,CICERO-NORTH SYRACUSE HIGH SCHOOL,42,0303,North Syracuse CSD,2015,High School MATH,Migrant
+420401060000,EAST SYRACUSE-MINOA CENTRAL SCHOOL DISTRICT,42,0401,East Syracuse-Minoa CSD,2015,High School MATH,Migrant
+420401060005,EAST SYRACUSE-MINOA CENTRAL HIGH SCHOOL,42,0401,East Syracuse-Minoa CSD,2015,High School MATH,Migrant
+420411060000,JAMESVILLE-DEWITT CENTRAL SCHOOL DISTRICT,42,0411,Jamesville-Dewitt CSD,2015,High School MATH,Migrant
+420411060006,JAMESVILLE-DEWITT HIGH SCHOOL,42,0411,Jamesville-Dewitt CSD,2015,High School MATH,Migrant
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Hispanic or Latino
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Limited English Proficient
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Migrant
+420501060000,JORDAN-ELBRIDGE CENTRAL SCHOOL DISTRICT,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Multiracial
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Hispanic or Latino
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Limited English Proficient
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Migrant
+420501060003,JORDAN-ELBRIDGE HIGH SCHOOL,42,0501,Jordan-Elbridge CSD,2015,High School MATH,Multiracial
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,American Indian or Alaska Native
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,Black or African American
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,Hispanic or Latino
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,Limited English Proficient
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,Migrant
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,Multiracial
+420601040000,FABIUS-POMPEY CENTRAL SCHOOL DISTRICT,42,0601,Fabius-Pompey CSD,2015,High School MATH,Not White
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,American Indian or Alaska Native
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,Black or African American
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,Hispanic or Latino
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,Limited English Proficient
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,Migrant
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,Multiracial
+420601040003,FABIUS-POMPEY MIDDLE SCHOOL HIGH SCHOOL,42,0601,Fabius-Pompey CSD,2015,High School MATH,Not White
+420701060000,WESTHILL CENTRAL SCHOOL DISTRICT,42,0701,Westhill CSD,2015,High School MATH,Limited English Proficient
+420701060000,WESTHILL CENTRAL SCHOOL DISTRICT,42,0701,Westhill CSD,2015,High School MATH,Migrant
+420701060001,WESTHILL HIGH SCHOOL,42,0701,Westhill CSD,2015,High School MATH,Limited English Proficient
+420701060001,WESTHILL HIGH SCHOOL,42,0701,Westhill CSD,2015,High School MATH,Migrant
+420702030000,SOLVAY UNION FREE SCHOOL DISTRICT,42,0702,Solvay UFSD,2015,High School MATH,Migrant
+420702030004,SOLVAY HIGH SCHOOL,42,0702,Solvay UFSD,2015,High School MATH,Migrant
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School MATH,Black or African American
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School MATH,Hispanic or Latino
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School MATH,Limited English Proficient
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School MATH,Migrant
+420807040000,LAFAYETTE CENTRAL SCHOOL DISTRICT,42,0807,Lafayette CSD,2015,High School MATH,Multiracial
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School MATH,Black or African American
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School MATH,Hispanic or Latino
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School MATH,Limited English Proficient
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School MATH,Migrant
+420807040003,LA FAYETTE JUNIOR-SENIOR HIGH SCHOOL,42,0807,Lafayette CSD,2015,High School MATH,Multiracial
+420901060000,BALDWINSVILLE CENTRAL SCHOOL DISTRICT,42,0901,Baldwinsville CSD,2015,High School MATH,Migrant
+420901060007,CHARLES W BAKER HIGH SCHOOL,42,0901,Baldwinsville CSD,2015,High School MATH,Migrant
+421001060000,FAYETTEVILLE-MANLIUS CENTRAL SCHOOL DISTRICT,42,1001,Fayetteville-Manlius CSD,2015,High School MATH,Migrant
+421001060002,FAYETTEVILLE-MANLIUS SENIOR HIGH SCHOOL,42,1001,Fayetteville-Manlius CSD,2015,High School MATH,Migrant
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School MATH,American Indian or Alaska Native
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School MATH,Black or African American
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School MATH,Limited English Proficient
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School MATH,Migrant
+421101060000,MARCELLUS CENTRAL SCHOOL DISTRICT,42,1101,Marcellus CSD,2015,High School MATH,Multiracial
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,American Indian or Alaska Native
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Black or African American
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Limited English Proficient
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Migrant
+421101060003,MARCELLUS HIGH SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Multiracial
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,All Students
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,General Education
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Students with Disabilities
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,American Indian or Alaska Native
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Black or African American
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Hispanic or Latino
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,White
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Female
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Male
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,English Proficient
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Limited English Proficient
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Economically Disadvantaged
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not Economically Disadvantaged
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Migrant
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not Migrant
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Multiracial
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not American Indian or Alaska Native
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not Asian or Pacific Islander
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not Black or African American
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not Hispanic or Latino
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not White
+421101060004,C S DRIVER MIDDLE SCHOOL,42,1101,Marcellus CSD,2015,High School MATH,Not Multiracial
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School MATH,Hispanic or Latino
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School MATH,Limited English Proficient
+421201040000,ONONDAGA CENTRAL SCHOOL DISTRICT,42,1201,Onondaga CSD,2015,High School MATH,Migrant
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School MATH,Hispanic or Latino
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School MATH,Limited English Proficient
+421201040003,ONONDAGA SENIOR HIGH SCHOOL,42,1201,Onondaga CSD,2015,High School MATH,Migrant
+421501060000,LIVERPOOL CENTRAL SCHOOL DISTRICT,42,1501,Liverpool CSD,2015,High School MATH,Migrant
+421501060011,LIVERPOOL HIGH SCHOOL,42,1501,Liverpool CSD,2015,High School MATH,Migrant
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School MATH,American Indian or Alaska Native
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School MATH,Black or African American
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School MATH,Limited English Proficient
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School MATH,Migrant
+421601060000,SKANEATELES CENTRAL SCHOOL DISTRICT,42,1601,Skaneateles CSD,2015,High School MATH,Multiracial
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School MATH,American Indian or Alaska Native
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School MATH,Black or African American
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School MATH,Limited English Proficient
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School MATH,Migrant
+421601060002,SKANEATELES SENIOR HIGH SCHOOL,42,1601,Skaneateles CSD,2015,High School MATH,Multiracial
+421800010033,CORCORAN HIGH SCHOOL,42,1800,Syracuse City SD,2015,High School MATH,Migrant
+421800010047,INSTITUTE OF TECHNOLOGY AT SYRACUSE CENTRAL,42,1800,Syracuse City SD,2015,High School MATH,Migrant
+421800010049,FOWLER HIGH SCHOOL,42,1800,Syracuse City SD,2015,High School MATH,Migrant
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,All Students
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,Students with Disabilities
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,American Indian or Alaska Native
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,Asian or Native Hawaiian/Other Pacific Islander
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,Black or African American
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,Hispanic or Latino
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,White
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,Limited English Proficient
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,Economically Disadvantaged
+421800010071,PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,42,1800,Syracuse City SD,2015,High School MATH,Multiracial
+421800860854,SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL,42,1800,Syracuse City SD,2015,High School MATH,American Indian or Alaska Native
+421800860854,SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL,42,1800,Syracuse City SD,2015,High School MATH,Migrant
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School MATH,American Indian or Alaska Native
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School MATH,Limited English Proficient
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School MATH,Migrant
+421902040000,TULLY CENTRAL SCHOOL DISTRICT,42,1902,Tully CSD,2015,High School MATH,Multiracial
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School MATH,American Indian or Alaska Native
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School MATH,Limited English Proficient
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School MATH,Migrant
+421902040001,TULLY JUNIOR-SENIOR HIGH SCHOOL,42,1902,Tully CSD,2015,High School MATH,Multiracial

@@ -11,6 +11,10 @@ library(acs)
 library(ggmap)
 library(ggplot2)
 
+simpleCap <- function(x) {
+  s <- strsplit(x, " ")[[1]]
+  paste(toupper(substring(s, 1, 1)), substring(s, 2),
+        sep = "", collapse = " ")}
 
 
 
@@ -92,7 +96,7 @@ colnames(dat) <- c("geoid", "population", "fempop", "malepop",
 
 #### 3) Load and Wrangle NYSHD Lead Dataset ####
 
-dat <- read.csv("data/school_water.csv")
+dat <- read.csv("data/nysedlead.csv")
 
 dat <- select(dat, School, BEDS.Code, School.District, County, Number.of.Outlets, 
               Any.Buildings.with.Lead.Free.Plumbing., Sampling.Complete, Sampling.Completion.Date,
@@ -108,19 +112,22 @@ dat <- filter(dat, County == "Onondaga") %>%
 
 dat$address <- paste(sep = ", ", dat$street, dat$city, dat$state )
 
+
+rm(dat)
+
 #coords <- geocode(dat$address)
 
-dat <- cbind(dat, coords) %>%
-       na.omit()
+#dat <- cbind(dat, coords) %>%
+#       na.omit()
 
 dat$percent.bad <- (dat$outletsOver15/dat$num.outlets)
 
 # Define circle sizes (and color?)
-dat$dotsize = NA
-dat$dotsize <- ifelse(dat$percent.bad < .85, yes = 1.2, no = dat$dotsize)
-dat$dotsize <- ifelse(dat$percent.bad > .85 & dat$percent.bad < .90, yes = 1.5, no = dat$dotsize)
-dat$dotsize <- ifelse(dat$percent.bad > .90 & dat$percent.bad < .95, yes = 1.8, no = dat$dotsize)
-dat$dotsize <- ifelse(dat$percent.bad > .95, yes = 2.4, no = dat$dotsize)
+#dat$dotsize = NA
+#dat$dotsize <- ifelse(dat$percent.bad < .85, yes = 1.2, no = dat$dotsize)
+#dat$dotsize <- ifelse(dat$percent.bad > .85 & dat$percent.bad < .90, yes = 1.5, no = dat$dotsize)
+#dat$dotsize <- ifelse(dat$percent.bad > .90 & dat$percent.bad < .95, yes = 1.8, no = dat$dotsize)
+#dat$dotsize <- ifelse(dat$percent.bad > .95, yes = 2.4, no = dat$dotsize)
   
 
 
@@ -169,10 +176,59 @@ dat$cleanDist <- ifelse(grepl("Tully Central", dat$District, ignore.case = TRUE)
 
 write.csv(dat, "data/school_lead.csv")
 
+lead <- read.csv("data/school_lead.csv")
 
 
 
-#### 5) Leaflet Map ####
+#### 5) get Beds Codes ####
+
+beds <- read.csv("data/beds.csv") %>%
+  select(ENTITY_CD, ENTITY_NAME, County, District.Name, ACCOUNTABILITYMEASURE)
+
+colnames(beds) <- c("BEDS", "School", "County", "District", "Type")
+
+beds$School <- tolower(beds$School) # fix upper/lower cases
+beds$School <- sapply(beds$School, simpleCap)
+
+
+beds.dat <- data.frame(BEDS = beds$BEDS, School = beds$School, Type = beds$Type)
+beds.dat <- unique(beds.dat)
+
+
+
+beds.dat$short <- ""
+
+beds.dat$short <- ifelse(grepl("Elementary/Middle", beds.dat$Type, ignore.case = TRUE), 
+                         yes = "Elementary/Middle", no = beds.dat$short)
+
+beds.dat$short <- ifelse(grepl("High", beds.dat$Type, ignore.case = TRUE),
+                         yes = "High School", no = beds.dat$short)
+
+beds.dat$Type <- NULL
+
+
+beds.dat <- unique(beds.dat) #creates the uniqueID dataset 
+rm(beds)
+
+
+#### DO the join and save the file as lead.csv
+
+merged <- left_join(lead, beds.dat, "BEDS")
+
+merged <- select(merged, )
+
+
+
+lead <- na.omit(lead)
+
+
+
+
+
+
+
+
+#### 6) Leaflet Map ####
 
 leaflet() %>%
   setView(lng=-76.13, lat=43.03, zoom=10) %>%
