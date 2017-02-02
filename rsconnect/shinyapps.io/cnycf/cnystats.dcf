@@ -3,8 +3,8 @@ title: cnystats
 account: cnycf
 server: shinyapps.io
 appId: 150139
-bundleId: 697171
+bundleId: 697578
 url: https://cnycf.shinyapps.io/cnystats/
-when: 1485945339.42689
+when: 1485969569.11945
 asMultiple: FALSE
 asStatic: FALSE
